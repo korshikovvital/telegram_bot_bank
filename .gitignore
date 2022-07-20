@@ -1,8 +1,5 @@
 # Byte-compiled / optimized / DLL files
-<<<<<<< HEAD
-telegram_bot_bank/config.py
-=======
->>>>>>> c0ff849... Initial commit
+config.py
 __pycache__/
 *.py[cod]
 *$py.class
